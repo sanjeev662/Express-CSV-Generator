@@ -23,7 +23,7 @@ This Express.js application fetches data from multiple APIs, combines them, and 
 
 ## Usage
 
-Make a GET request to `/generate-csv` endpoint:
+Make a GET request to `/generate-csv` endpoint from browser:
 
 ```bash
 curl http://localhost:3000/generate-csv
