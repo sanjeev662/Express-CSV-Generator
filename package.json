@@ -1,0 +1,14 @@
+{
+  "name": "express-csv-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.2",
+    "csv-writer": "^1.6.0"
+  }
+}
